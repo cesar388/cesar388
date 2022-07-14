@@ -9,7 +9,7 @@ import { SoftwareDeveloper } from 'cesar388';
 class Skills extends SoftwareDeveloper {
   languages  = ['HTML', 'CSS', 'Javascript', 'Java'];
   databases  = ['MySQL', 'Java Database Connectivity'];
-  frameworks = ['React', 'Spring'];
+  frameworks = ['Spring'];
 }
 ```
 ------
